@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "id": "spark-robotic-auto-edge-finish",
+  "author": "Spark Robotic",
+  "description": {
+    "": "Auto Edge Finish: fillet/chamfer a whole body by edge group, with presets, per-group control and automatic fallback."
+  },
+  "version": "2.0.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
